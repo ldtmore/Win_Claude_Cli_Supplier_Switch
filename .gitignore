@@ -1,0 +1,16 @@
+# 备份文件（install/uninstall 自动生成）
+*.bak-*
+
+# 真实配置（含 API Key，绝不能进仓库；仓库内只允许 suppliers.template.json）
+suppliers.json
+.supplier-last
+
+# 系统杂物
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp

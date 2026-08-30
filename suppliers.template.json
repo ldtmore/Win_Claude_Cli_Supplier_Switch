@@ -1,0 +1,5 @@
+{
+  "glma": { "desc": "智谱GLM · 账号A", "env:ANTHROPIC_BASE_URL": "https://open.bigmodel.cn/api/anthropic", "env:ANTHROPIC_AUTH_TOKEN": "在此填入账号A的APIKey", "env:ANTHROPIC_DEFAULT_OPUS_MODEL": "glm-5.3[1m]", "env:ANTHROPIC_DEFAULT_SONNET_MODEL": "glm-5.3[1m]", "env:ANTHROPIC_DEFAULT_HAIKU_MODEL": "glm-5.3-flash[1m]", "env:CLAUDE_CODE_AUTO_COMPACT_WINDOW": "1000000", "env:CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1", "env:API_TIMEOUT_MS": "3000000" },
+  "glmb": { "desc": "智谱GLM · 账号B", "env:ANTHROPIC_BASE_URL": "https://open.bigmodel.cn/api/anthropic", "env:ANTHROPIC_AUTH_TOKEN": "在此填入账号B的APIKey", "env:ANTHROPIC_DEFAULT_OPUS_MODEL": "glm-5.3[1m]", "env:ANTHROPIC_DEFAULT_SONNET_MODEL": "glm-5.3[1m]", "env:ANTHROPIC_DEFAULT_HAIKU_MODEL": "glm-5.3-flash[1m]", "env:CLAUDE_CODE_AUTO_COMPACT_WINDOW": "1000000", "env:CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1", "env:API_TIMEOUT_MS": "3000000" },
+  "official": { "desc": "官方 Anthropic" }
+}
